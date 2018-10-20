@@ -1,0 +1,28 @@
+html{
+    width: 100%;
+    height: 100%;
+}
+
+.nav-styles{
+    background-color: #F05F44;
+    
+}
+
+a{
+    color:white;
+}
+
+.startupImage{
+    background-position: center;
+    background-image: url("header.jpg");
+    background-size: cover;
+    height: 50em;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+   background-color: black;
+   color: white;
+}
